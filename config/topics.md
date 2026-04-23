@@ -1,3 +1,183 @@
+#Cluster 1: Nitrogen Cycling & Denitrification
+Priority: High (core specialty; foundation of publication record from Burgin & Hamilton 2007 onward)
+Primary terms: denitrification, dissimilatory nitrate reduction to ammonium (DNRA), nitrification, anammox, nitrate reduction, nitrogen retention, nitrogen removal, nitrous oxide, N2O, nitrous oxide emission, 15N tracer, nitrogen cycling, N cycling, inorganic nitrogen, ammonium oxidation, nitrogen budget, riparian denitrification, N saturation
+
+Exclusion terms: "nitrogen fixation in legumes" (agronomy-specific; not aquatic focus)
+combustion NOx
+
+#Cluster 2 — Sulfur Cycling & N–S Coupling
+Priority: High (distinctive niche; multiple foundational papers Burgin & Hamilton 2008, Burgin et al. 2011, 2012)
+Primary terms
+
+sulfate reduction
+sulfur oxidation
+nitrogen sulfur coupling
+N-S coupling
+sulfur-driven denitrification
+chemolithoautotrophic denitrification
+
+Secondary terms
+
+sulfide
+sulfate
+sulfur cycling
+microbial energy economy
+coupled biogeochemical cycles
+
+Cluster 3 — Redox Dynamics & Soil Oxygen
+Priority: High (active research thread; "Redox Paradox" 2023, Jarecke SBB, Smyth soil O2 sensors)
+Primary terms
+
+redox dynamics
+soil oxygen
+soil O2
+oxic-anoxic interface
+redox paradox
+redox potential
+variable inundation
+wetting drying cycles
+drought rewet
+
+Secondary terms
+
+iron biogeochemistry
+iron reduction
+ferric iron
+ferrous iron
+oxygen sensors
+soil greenhouse gas dynamics
+
+Cluster 4 — Wetland Biogeochemistry & Salinization
+Priority: High (Hopfensperger 2014, Herbert 2015, Schoepfer salinization, Iron Clad Wetlands)
+Primary terms
+
+wetland biogeochemistry
+coastal wetland
+freshwater wetland
+wetland salinization
+saltwater incursion
+saltwater intrusion
+ghost forest
+tidal freshwater
+restored wetland
+
+Secondary terms
+
+wetland greenhouse gas
+wetland nitrogen
+wetland carbon
+sea level rise nitrogen
+brackish transition
+iron sulfur wetland
+
+Exclusion terms
+
+constructed wetland wastewater treatment engineering (unless biogeochemistry focus)
+
+Cluster 5 — Streams, Rivers & Non-Perennial Systems
+Priority: High (Mulholland LINX papers, Zimmer 2020/2022, Shanafield Eos, Swenson 2024, Krabbenhoft Gauge Gaps)
+Primary terms
+
+stream biogeochemistry
+river network
+non-perennial stream
+intermittent stream
+ephemeral stream
+drying river
+dry river
+stream metabolism
+nutrient uptake
+nitrate uptake
+gauge gap
+ungauged basin
+
+Secondary terms
+
+LINX
+whole-stream metabolism
+stream nitrogen retention
+headwater stream
+river continuum
+water age
+transit time
+
+Cluster 6 — Lakes, Limnology & Harmful Algal Blooms
+Priority: Medium-High (Burgin et al. 2012 eutrophic lake, Bertilsson 2013 under-ice, Song UAV in Limnology)
+Primary terms
+
+harmful algal bloom
+HAB
+cyanobacteria bloom
+eutrophication
+lake biogeochemistry
+under-ice ecology
+under-ice microbiome
+phosphorus cycling lake
+
+Secondary terms
+
+lake nitrogen
+lake methane
+lake greenhouse gas
+internal loading
+hypolimnion
+microcystin
+
+Cluster 7 — Agricultural Water Quality, Weather Whiplash & Climate Variability
+Priority: High (Loecke 2017 weather whiplash, Kaushal 2018 chemical cocktails, Pruitt 2024, Zarnaghsh 2024, Zipper 2021, Ahamed 2023)
+Primary terms
+
+weather whiplash
+agricultural water quality
+watershed chemical cocktail
+precipitation variability
+drought flood
+climate extremes water
+nitrate export
+agricultural drainage
+tile drainage nitrogen
+corn belt water quality
+Midwest water quality
+
+Secondary terms
+
+land use change water
+legacy nitrogen
+riparian buffer effectiveness
+nitrogen export watershed
+conservation practice
+
+Cluster 8 — Methods, Sensors & Team Science / Academic Culture
+Priority: Medium (UAV water sampling Ore/Detweiler, autonomous sensors, plus Allen shared leadership, Fulweiler academic mothers, McGill belonging)
+Primary terms — methods
+
+autonomous water sampling
+UAV water quality
+drone limnology
+in-situ sensor
+high-frequency sensor
+porewater equilibrator
+sampling optimization
+
+Primary terms — team science / culture
+
+shared leadership ecology
+collaborative research network
+team science ecology
+academic mothers
+women in STEM
+sense of belonging STEM
+inclusive mentoring
+early career faculty
+
+Secondary terms
+
+distributed leadership
+research coordination network
+broadening participation
+
+
+
 #Machine Learning and AI
 Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
 
