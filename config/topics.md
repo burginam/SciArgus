@@ -1,206 +1,26 @@
-#Cluster 1: Nitrogen Cycling & Denitrification
-Priority: High (core specialty; foundation of publication record from Burgin & Hamilton 2007 onward)
-Primary terms: denitrification, dissimilatory nitrate reduction to ammonium (DNRA), nitrification, anammox, nitrate reduction, nitrogen retention, nitrogen removal, nitrous oxide, N2O, nitrous oxide emission, 15N tracer, nitrogen cycling, N cycling, inorganic nitrogen, ammonium oxidation, nitrogen budget, riparian denitrification, N saturation
+#Nitrogen Cycling and Denitrification in Aquatic Ecosystems
+Research on the biogeochemical pathways that transform, retain, and remove reactive nitrogen across streams, rivers, lakes, wetlands, and riparian zones. Papers addressing denitrification, dissimilatory nitrate reduction to ammonium (DNRA), nitrification, anammox, and associated nitrous oxide (N₂O) emissions are central. We are particularly interested in ¹⁵N tracer experiments, whole-ecosystem nitrogen budgets, scaling from reach to network to continent, and work that quantifies the trade-offs between nitrogen retention as an ecosystem service and greenhouse gas production as an ecosystem disservice. Submissions that revisit foundational assumptions about which pathways dominate in which environments — and at what rates — are especially encouraged, as are mechanistic studies that bridge microbial physiology and landscape-scale flux.
 
-Exclusion terms: "nitrogen fixation in legumes" (agronomy-specific; not aquatic focus)
-combustion NOx
+#Sulfur Cycling and Nitrogen–Sulfur Coupling
+Research examining how sulfate, sulfide, and elemental sulfur cycle through freshwater and brackish systems, with a particular emphasis on the coupling between nitrogen and sulfur transformations. Papers on sulfur-driven (chemolithoautotrophic) denitrification, nitrate-driven sulfate production, the influence of sulfate on N₂O yield, and the broader microbial energy economy that links elemental cycles all fit within this section. Of particular interest is work in eutrophic lakes, salinized wetlands, and groundwater–surface water interfaces where N–S coupling is most pronounced and where the interplay of sulfur and iron complicates classical nitrogen-only conceptual models.
 
-#Cluster 2 — Sulfur Cycling & N–S Coupling
-Priority: High (distinctive niche; multiple foundational papers Burgin & Hamilton 2008, Burgin et al. 2011, 2012)
-Primary terms
+#Redox Dynamics, Soil Oxygen, and Variable Inundation
+Research on how variable hydrology — wetting and drying, flooding and drawdown, snowmelt pulses, and storm events — drives shifts in oxidation–reduction conditions and reshapes biogeochemical process rates. We welcome papers using high-frequency soil oxygen sensors, redox electrodes, porewater equilibrators, and other in situ instrumentation to capture transient redox dynamics, as well as conceptual and synthesis work on the "redox paradox" of overlapping oxidative and reductive processes in dynamic systems. Iron and manganese biogeochemistry, particularly as they intersect with nitrogen and sulfur transformations, also belong here, along with studies of how variable inundation regimes influence soil greenhouse gas dynamics in floodplains, restored wetlands, and agricultural soils.
 
-sulfate reduction
-sulfur oxidation
-nitrogen sulfur coupling
-N-S coupling
-sulfur-driven denitrification
-chemolithoautotrophic denitrification
+#Wetland Biogeochemistry and Salinization
+Research on the biogeochemical functioning of freshwater, tidal freshwater, and coastal wetlands, with a strong emphasis on the ecological consequences of saltwater incursion driven by sea level rise, drought, and groundwater extraction. Papers should address how shifting salinity regimes alter microbial communities, organic matter decomposition, nutrient cycling, and greenhouse gas exchange in wetland soils and porewaters. We are particularly interested in cross-site syntheses, ghost forest dynamics, comparisons between restored and natural wetlands, iron-cycling controls on phosphorus retention, and frameworks for predicting tipping points in coastal-to-inland transition zones as freshwater ecosystems become increasingly saline.
 
-Secondary terms
+#Streams, Rivers, and Non-Perennial Systems
+Research on the ecology, hydrology, and biogeochemistry of flowing waters across the perennial-to-ephemeral continuum, including headwaters, intermittent streams, and dry riverbeds. We welcome papers that quantify whole-stream metabolism, nutrient uptake and spiraling, hyporheic exchange, water age, and transit times, as well as those that develop new approaches for monitoring under-sampled and ungauged systems — a foundational gap in our ability to manage river networks. Of particular interest is research on how drying, rewetting, and flow intermittency reshape biogeochemical processing, and how the global expansion of non-perennial systems under climate change is fundamentally altering what river networks do for downstream water quality.
 
-sulfide
-sulfate
-sulfur cycling
-microbial energy economy
-coupled biogeochemical cycles
+#Lakes, Limnology, and Harmful Algal Blooms
+Research on lake biogeochemistry across thermal stratification, mixing, and ice-cover regimes, including under-ice microbial activity, internal nutrient loading, and the drivers of cyanobacterial harmful algal blooms (HABs). Papers should advance understanding of phosphorus and nitrogen co-limitation, the role of sulfur and iron in oxygen-depleted hypolimnia, and the ecosystem-level greenhouse gas consequences of eutrophication. We welcome long-term monitoring syntheses, process-level experimental work, and studies that integrate microbial ecology with biogeochemistry to clarify the conditions under which lakes shift between alternative stable states.
 
-Cluster 3 — Redox Dynamics & Soil Oxygen
-Priority: High (active research thread; "Redox Paradox" 2023, Jarecke SBB, Smyth soil O2 sensors)
-Primary terms
+#Agricultural Water Quality and Climate Variability
+Research on how land use, drainage infrastructure, conservation practices, and climate variability — including drought, flood, and "weather whiplash" sequences — interact to control nutrient export from agricultural landscapes to receiving waters. We welcome papers on tile drainage nitrogen, watershed-scale chemical cocktails, legacy nutrient stores, and the effectiveness (and limits) of riparian buffers, cover crops, two-stage ditches, and other conservation practices under increasingly variable hydroclimates. Particular interest is given to Midwestern and Corn Belt systems, where the intersection of intensive row-crop agriculture and a changing precipitation regime produces some of the most acute water-quality challenges globally, but cross-regional and international comparisons are encouraged.
 
-redox dynamics
-soil oxygen
-soil O2
-oxic-anoxic interface
-redox paradox
-redox potential
-variable inundation
-wetting drying cycles
-drought rewet
+#Methods, Sensors, and Emerging Technologies for Aquatic Science
+Research advancing the toolkit for quantifying biogeochemical processes and water quality in the field, including unmanned aerial vehicle (UAV) water sampling, autonomous in situ sensors, optical and electrochemical probes, isotope tracer techniques, and high-frequency monitoring networks. Papers should describe sensor development, deployment and sampling optimization, data-quality frameworks, or the integration of new measurement streams with mechanistic models and machine learning approaches. Cross-cutting work that links measurement innovation to long-standing questions in aquatic biogeochemistry — particularly studies that resolve processes at the temporal and spatial scales at which they actually occur — is especially welcome.
 
-Secondary terms
-
-iron biogeochemistry
-iron reduction
-ferric iron
-ferrous iron
-oxygen sensors
-soil greenhouse gas dynamics
-
-Cluster 4 — Wetland Biogeochemistry & Salinization
-Priority: High (Hopfensperger 2014, Herbert 2015, Schoepfer salinization, Iron Clad Wetlands)
-Primary terms
-
-wetland biogeochemistry
-coastal wetland
-freshwater wetland
-wetland salinization
-saltwater incursion
-saltwater intrusion
-ghost forest
-tidal freshwater
-restored wetland
-
-Secondary terms
-
-wetland greenhouse gas
-wetland nitrogen
-wetland carbon
-sea level rise nitrogen
-brackish transition
-iron sulfur wetland
-
-Exclusion terms
-
-constructed wetland wastewater treatment engineering (unless biogeochemistry focus)
-
-Cluster 5 — Streams, Rivers & Non-Perennial Systems
-Priority: High (Mulholland LINX papers, Zimmer 2020/2022, Shanafield Eos, Swenson 2024, Krabbenhoft Gauge Gaps)
-Primary terms
-
-stream biogeochemistry
-river network
-non-perennial stream
-intermittent stream
-ephemeral stream
-drying river
-dry river
-stream metabolism
-nutrient uptake
-nitrate uptake
-gauge gap
-ungauged basin
-
-Secondary terms
-
-LINX
-whole-stream metabolism
-stream nitrogen retention
-headwater stream
-river continuum
-water age
-transit time
-
-Cluster 6 — Lakes, Limnology & Harmful Algal Blooms
-Priority: Medium-High (Burgin et al. 2012 eutrophic lake, Bertilsson 2013 under-ice, Song UAV in Limnology)
-Primary terms
-
-harmful algal bloom
-HAB
-cyanobacteria bloom
-eutrophication
-lake biogeochemistry
-under-ice ecology
-under-ice microbiome
-phosphorus cycling lake
-
-Secondary terms
-
-lake nitrogen
-lake methane
-lake greenhouse gas
-internal loading
-hypolimnion
-microcystin
-
-Cluster 7 — Agricultural Water Quality, Weather Whiplash & Climate Variability
-Priority: High (Loecke 2017 weather whiplash, Kaushal 2018 chemical cocktails, Pruitt 2024, Zarnaghsh 2024, Zipper 2021, Ahamed 2023)
-Primary terms
-
-weather whiplash
-agricultural water quality
-watershed chemical cocktail
-precipitation variability
-drought flood
-climate extremes water
-nitrate export
-agricultural drainage
-tile drainage nitrogen
-corn belt water quality
-Midwest water quality
-
-Secondary terms
-
-land use change water
-legacy nitrogen
-riparian buffer effectiveness
-nitrogen export watershed
-conservation practice
-
-Cluster 8 — Methods, Sensors & Team Science / Academic Culture
-Priority: Medium (UAV water sampling Ore/Detweiler, autonomous sensors, plus Allen shared leadership, Fulweiler academic mothers, McGill belonging)
-Primary terms — methods
-
-autonomous water sampling
-UAV water quality
-drone limnology
-in-situ sensor
-high-frequency sensor
-porewater equilibrator
-sampling optimization
-
-Primary terms — team science / culture
-
-shared leadership ecology
-collaborative research network
-team science ecology
-academic mothers
-women in STEM
-sense of belonging STEM
-inclusive mentoring
-early career faculty
-
-Secondary terms
-
-distributed leadership
-research coordination network
-broadening participation
-
-
-
-#Machine Learning and AI
-Research on the use of machine learning and AI to advance the measurement and monitoring of biodiversity and conservation efforts. This includes the development of new foundation models across modalities (such as text, remote sensing, and images) with conservation applications, as well as novel benchmarks that measure AI capabilities in this field. Additionally, we welcome thought leadership and perspectives on the promises and perils of integrating AI into conservation practices.
-
-#Causal Impact Estimation
-Impact evaluations of conservation interventions and their resulting biodiversity outcomes. Submissions should encompass both methodological developments and practical applications, with a particular interest in spatial impact evaluation and the use of causal machine learning (ML).
-
-#Biodiversity Monitoring
-Research on in situ biodiversity monitoring utilizing technologies such as acoustics, environmental DNA (eDNA), and camera traps. There is a specific focus on multi-modal approaches used simultaneously to quantify integrated biodiversity patterns at large spatial scales.
-
-#Remote Sensing of Biodiversity
-Research into the application of remote sensing for the quantification of biodiversity and ecosystems at both local and global scales. This encompasses all sensor technologies—including drones, airborne and satellite LiDAR, radar, and optical sensors (particularly hyperspectral). Topics should cover the development of new sensor technologies, the creation of novel algorithms for ecosystem monitoring, and advancements in leveraging existing sensors to derive critical biodiversity information.
-
-#Conservation Science
-Thought leadership and perspectives on the current state of conservation science, including evaluations of what is and is not working in global implementation and policy. This section welcomes reflections on the directions taken by conservation actors (governments, NGOs, and private entities), analyses of past successes and failures, and strategic visions for the future of the field.
-
-#Biodiversity Markets
-Research discussing the development and application of biodiversity markets, including offsets, biodiversity credits, voluntary markets, and compliance markets. We seek critiques of how these markets are evolving, perspectives on the prerequisites for well-functioning markets, and reviews of both existing markets and the structural conditions required for their success.
-
-#Ecological Condition
-Papers discussing the concept of ecological condition and its quantification. This includes the introduction of new datasets, critical analyses of existing data, and applications of these datasets to novel questions at global or local scales (provided local datasets are used to generate new, scalable frameworks or approaches). We also welcome discussions on how ecological condition is operationalized and how it feeds into global agreements, such as the Global Biodiversity Framework, or efforts to quantify and commoditize biodiversity.
-
-#Global Biodiversity Data
-Papers that analyze global biodiversity datasets to generate new insights into macro-ecological patterns and processes. This section also includes research detailing the development of new global biodiversity datasets or novel biodiversity indicators.
-
-#Savanna and Grassland Ecology
-Papers contributing significant information to our fundamental understanding of savanna and grassland ecology, including their critical role in the broader Earth system. Submissions should highlight the unique functioning of these ecosystems and how they are influenced by natural and anthropogenic disturbances, such as fire and herbivory.
+#Team Science, Leadership, and Inclusive Academic Culture
+Perspectives, empirical studies, and reflective scholarship on how ecological and environmental research teams function, including shared and distributed leadership, collaborative research networks, cross-institutional partnerships, mentoring practices, and the institutional structures that support — or hinder — early-career scientists, women, caregivers, and other historically underrepresented groups in STEM. We welcome work that examines what makes large interdisciplinary networks succeed, how academic culture is shifting in the post-pandemic era, and how departments and institutions can build genuine sense of belonging. Submissions on departmental leadership, faculty development, and the management of the research enterprise are also within scope.
